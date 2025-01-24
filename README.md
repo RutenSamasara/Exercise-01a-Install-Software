@@ -1,9 +1,9 @@
 # Exercise-01a-Install-Software
-My name is:
+My name is: Chengyu Yang
 
 [Your Name]
 
-My github username is:
+My github username is: RutenSamasara
 
 [Your Username]
 
